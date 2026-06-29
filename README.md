@@ -79,7 +79,7 @@ Performance improvements were validated using bootstrap robustness analysis.
 
 ## Dissertation Abstract
 
-The non-additivity of variance poses a major challenge for mean--variance optimisation. Basak and Chabakauri (2010) derived a time-consistent allocation strategy in continuous time, but their frictionless framework lacks practical relevance. Once frictions such as transaction costs are introduced, the problem becomes nonlinear and analytically intractable, motivating numerical methods. We extend the deep BSDE methodology of Han et al. (2018); Beck et al. (2019); Huré et al. (2020) to multi-asset mean--variance optimisation with transaction costs, learning optimal time-consistent strategies in continuous time. In historical backtests, the approach outperforms both the frictionless benchmark and a passive buy-and-hold strategy, achieving a Sharpe ratio of 1.47 with statistically significant improvements in risk-adjusted performance. Robustness is confirmed through parametric bootstrap analysis, which shows consistent Sharpe gains across simulated market paths.
+The non-additivity of variance poses a major challenge for mean-variance optimisation. Basak and Chabakauri (2010) derived a time-consistent allocation strategy in continuous time, but their frictionless framework lacks practical relevance. Once frictions such as transaction costs are introduced, the problem becomes nonlinear and analytically intractable, motivating numerical methods. We extend the deep BSDE methodology of Han et al. (2018); Beck et al. (2019); Huré et al. (2020) to multi-asset mean-variance optimisation with transaction costs, learning optimal time-consistent strategies in continuous time. In historical backtests, the approach outperforms both the frictionless benchmark and a passive buy-and-hold strategy, achieving a Sharpe ratio of 1.47 with statistically significant improvements in risk-adjusted performance. Robustness is confirmed through parametric bootstrap analysis, which shows consistent Sharpe gains across simulated market paths.
 
 ---
 
@@ -103,9 +103,3 @@ MSc Financial Mathematics (Distinction)
 University of Leeds
 
 LinkedIn: https://www.linkedin.com/in/jackmadams
-
-Pandas
-
-SciPy
-
-PyTorch
